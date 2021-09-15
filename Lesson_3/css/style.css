@@ -1,0 +1,84 @@
+/* ОБНУЛЕНИЕ СТИЛЕЙ */
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+
+
+.wrapper {
+}
+.header {
+	color: pink;
+}
+.header__title {
+}
+.title {
+	color: red;
+}
+.content__text {
+	color: khaki;
+}
+.navigation {
+}
+.list__title {
+}
+.list__navigation {
+}
+.opportunities {
+}
+.opportunities__title {
+}
+.part1 {
+	color: lightgreen;
+}
+.discordapi {
+}
+.discordapi__title {
+}
+.part2 {
+	color: brown;
+}
+.history {
+}
+.history__title {
+}
+.part3 {
+	color: green;
+}
+.links {
+}
+.links__title {
+}
+.list__links {
+}
+.part3 span{
+	color: brown;
+}
+.content__text span{
+	color: indigo;
+}
